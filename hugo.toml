@@ -1,0 +1,4 @@
+baseURL = 'https://jackochizy.com/'
+languageCode = 'en-us'
+title = 'Hello World!'
+theme = 'ananke'
